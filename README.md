@@ -1,4 +1,5 @@
-# compress
+# 图片上传以及压缩
+
 
 ## Project setup
 ```
@@ -29,5 +30,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-图片压缩
+###图片压缩
 1MB = 1024KB，1KB = 1024B(字节)
